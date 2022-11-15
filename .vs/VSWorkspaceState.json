@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\rescue"
+    "\\rescue",
+    "\\rescue\\css"
   ],
-  "SelectedNode": "\\rescue\\template.html",
   "PreviewInSolutionExplorer": false
 }
